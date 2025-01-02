@@ -2,14 +2,6 @@
 
 This project demonstrates a logistic regression analysis using the Titanic dataset. The goal is to predict passenger survival based on various features of the dataset.
 
-## Table of Contents
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Usage](#usage)
-- [Results](#results)
-- [Visualization](#visualization)
-
 ### Requirements
 - Python 3.x
 - pandas
@@ -72,17 +64,7 @@ Classification Report:
 weighted avg       0.83      0.83      0.83       179
 ```
 
-## Visualization
 
-1. **Confusion Matrix Heatmap**:
-   A heatmap representing the confusion matrix to visualize model performance.
-
-   ![Confusion Matrix](confusion_matrix.png)
-
-2. **Classification Report Heatmap**:
-   A heatmap illustrating the precision, recall, and F1-score for each class.
-
-   ![Classification Report](classification_report.png)
 
 
 
